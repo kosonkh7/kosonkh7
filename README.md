@@ -1,6 +1,6 @@
 ## Glad to see YOU! 
 - I'm Gwang Ha Go👋, a researcher with strong intellectual curiosity and prudence.
-- I wanna contribute to society through technology.
+- I wanna contribute to realistic problem solving through well-organized technology.
 - I have a interest in Data Science and aim to solve complex problems experimentally.
 
 ## Educations
