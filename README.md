@@ -13,9 +13,13 @@
 
 ## Research Experience
 #### Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data (2024-1)
+EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가
 #### Optimization of Pre-trained Text2Video Model for Machine Tool Manual Video Generation (2024-1)
+Text-to-Video 모델을 활용한 공작기계 매뉴얼 영상 생성 연구
 #### Performance Evaluation of Deep Learning-Based Brain Tumor Segmentation Using Magnetic Resonance Imaging (2022-2)
+U-Net 기반 딥러닝 모델을 활용한 뇌종양 분할 및 성능 평가
 #### Balancing Public Bicycle Sharing System Using Queuing Network Simulation (2022-1)
+대기행렬이론을 이용한 공공 자전거 대여 시스템 재고 불균형 해소 연구
 
 ## Certifications
 - 빅데이터분석기사 (과학기술정보통신부, 통계청, 2023.12) [[repo](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/BigDataAnalysis_Certificate)]
