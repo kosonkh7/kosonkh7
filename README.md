@@ -1,11 +1,11 @@
 ## Glad to see YOU! 
-- I'm Gwang Ha Go👋, a researcher with strong intellectual curiosity and prudence.
+- I'm **Gwang Ha Go**👋, a researcher with strong intellectual curiosity and prudence.
 - I wanna contribute to realistic problem solving through well-organized technology.
 - I have a interest in Data Science and aim to solve complex problems experimentally.
 
 ## Educations
-- B.E. in Department of Industrial & Management Systems Engineering, Kyung Hee University, 2017.03 - 2024.08.
-- B.E. in Department of Software Convergence, Kyung Hee University, 2017.03 - 2024.08.
+- **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
+- **B.E.** in Department of **Software Convergence**, Kyung Hee University, 2017.03 - 2024.08.
 - GPA: 3.84 / 4.5
 
 ## Tech Stacks
@@ -36,7 +36,7 @@
 ## Extra Activities
 - SQL 데이터 분석 캠프 이수 (데이터리안, 온라인 과정, 2023.11~2023.12)
 - NH투자증권 IB부서 체험형 인턴 (2021.02)
-- AI 커버곡 유튜브 채널 운영
+- 생성형 인공지능 기반 AI 커버곡 유튜브 채널 운영
 
 
 <!--
