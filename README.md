@@ -12,13 +12,13 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ## Research Experience
-- 24-1 Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data
-- 24-1 Optimization of Pre-trained Text2Video Model for Machine Tool Manual Video Generation
-- 22-2 Performance Evaluation of Deep Learning-Based Brain Tumor Segmentation Using Magnetic Resonance Imaging
-- 22-1 Balancing Public Bicycle Sharing System Using Queuing Network Simulation
+#### Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data (2024-1)
+#### Optimization of Pre-trained Text2Video Model for Machine Tool Manual Video Generation (2024-1)
+#### Performance Evaluation of Deep Learning-Based Brain Tumor Segmentation Using Magnetic Resonance Imaging (2022-2)
+#### Balancing Public Bicycle Sharing System Using Queuing Network Simulation (2022-1)
 
 ## Certifications
-- 빅데이터분석기사 (과학기술정보통신부, 통계청, 2023.12)
+- 빅데이터분석기사 (과학기술정보통신부, 통계청, 2023.12) [[repo](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/BigDataAnalysis_Certificate)]
 - Google Advanced Data Analytics Professional (Coursera, Google, 2023.06)
 - SQLD (SQL Developer) (한국데이터산업진흥원, 2021.10)
 - ADsP (Advanced Data Analytics Semi-Professional) (한국데이터산업진흥원, 2020.09)
@@ -36,7 +36,7 @@
 ## Extra Activities
 - SQL 데이터 분석 캠프 이수 (데이터리안, 온라인 과정, 2023.11~2023.12)
 - NH투자증권 IB부서 체험형 인턴 (2021.02)
-- 생성형 인공지능 기반 AI 커버곡 유튜브 채널 운영
+- 생성형 인공지능 기반 AI 커버곡 유튜브 채널 운영 [[link](https://www.youtube.com/channel/UCuizYZgtZva8zTvNwpy4Cbg)] [[repo](https://github.com/kosonkh7/RVC_Voice_Conversion)]
 
 
 <!--
