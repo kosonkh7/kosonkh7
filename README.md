@@ -22,6 +22,8 @@ U-Net 기반 딥러닝 모델을 활용한 뇌종양 분할 및 성능 평가
 #### - Balancing Public Bicycle Sharing System Using Queuing Network Simulation (2022-1)
 대기행렬이론을 이용한 공공 자전거 대여 시스템 재고 불균형 해소 연구
 
+- 프로젝트 별로 주요 기능, 담당 역할, 성과 및 배운점 3~4줄 정도로 정리하기! 
+
 ## Certifications
 - 빅데이터분석기사 (과학기술정보통신부, 통계청, 2023.12) [[repo](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/BigDataAnalysis_Certificate)]
 - Google Advanced Data Analytics Professional (Coursera, Google, 2023.06)
