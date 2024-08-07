@@ -26,14 +26,13 @@ U-Net 기반 딥러닝 모델을 활용한 뇌종양 분할 및 성능 평가
 
 ## Certifications
 - 빅데이터분석기사 (과학기술정보통신부, 통계청, 2023.12) [[repo](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/BigDataAnalysis_Certificate)]
-- Google Advanced Data Analytics Professional (Coursera, Google, 2023.06)
 - SQLD (한국데이터산업진흥원, 2021.10)
 - ADsP (한국데이터산업진흥원, 2020.09)
 - ITQ OA Master (한국생산성본부, 2019.12)
 - 컴퓨터활용능력(2) (대한상공회의소, 2019.08)
 
 ## Awards
-- 한국컴퓨터종합학술대회 장려상 (KCC, 한국정보과학회, 2024)
+- KCC(한국컴퓨터종합학술대회) 장려상 (KCC, 한국정보과학회, 2024)
 - 지식재산능력시험 우수상 (경희대학교, 2018)
 - FIELD(Future Industrial Engineering Leaders and Dreamers) 컴페티션 대상 (대한산업공학회, 2017)
 
@@ -41,6 +40,7 @@ U-Net 기반 딥러닝 모델을 활용한 뇌종양 분할 및 성능 평가
 - TOEIC(855)
 
 ## Extra Activities
+- Google Advanced Data Analytics Professional 자격 수료 (Coursera, Google, 온라인 과정, 2023.03~2023.06)
 - SQL 데이터 분석 캠프 이수 (데이터리안, 온라인 과정, 2023.11~2023.12)
 - 00투자증권 IB부서 기업 분석 체험형 인턴 (2021.02)
 - 생성형 인공지능 기반 AI 커버곡 유튜브 채널 운영 [[link](https://www.youtube.com/channel/UCuizYZgtZva8zTvNwpy4Cbg)] [[repo](https://github.com/kosonkh7/RVC_Voice_Conversion)]
