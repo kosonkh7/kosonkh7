@@ -13,8 +13,27 @@
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,pytorch,opencv,github,vscode,notion&theme=light)](https://skillicons.dev)
 
 ## Research Experience
-#### - Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data (2024-1)
-EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가
+***
+### EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가 
+2024.01 ~ 2024.05, 개인 프로젝트, 졸업 논문, KCC 2024 장려상 [paper] [poster]
+
+
+#### 연구 내용
+
+&#45; EEG 데이터에 포함된 노이즈를 제거하기 위해 Band Pass Filter, Re-Referencing, 독립 성분 분석(ICA)을 적용.<br>
+&#45; EEG 디코딩에 특화된 8가지 딥러닝 기반 분류 모델을 선정. <br>
+&#45; 각 모델에 Optuna를 활용하여 알츠하이머병 진단에 최적화 된 하이퍼파라미터 조합 탐색. <br>
+&#45; 최적화된 각 모델 성능 평가에는 Leave-One-Subject-Out(LOSO) 검증 방법 활용. <br>
+
+#### 성과 및 느낀점
+
+&#45; 실험 결과, EEGConformer와 ATCNet 모델이 각각 78.59%와 76.36%의 정확도를 기록하여 가장 높은 성능 보임. <br>
+&#45; 두 모델은 트랜스포머 네트워크의 Multi-Head Attention 모듈을 통합하여 구성된 것이 공통적인 특징. <br>
+&#45; 추가 데이터 수집이나 데이터 증강 기법의 적용을 통해 모델의 표현력과 하이퍼파라미터의 최적화를 더욱 극대화할 수 있을 것으로 기대. <br>
+&#45; 향후 EEG 데이터를 활용하여 독자적인 딥러닝 기반 분류 모델을 설계할 때, 중요한 비교 평가 자료로 활용 가능. <br>
+
+***
+
 #### - Optimization of Pre-trained Text2Video Model for Machine Tool Manual Video Generation (2024-1)
 Text-to-Video 모델을 활용한 공작기계 매뉴얼 영상 생성 연구
 #### - Performance Evaluation of Deep Learning-Based Brain Tumor Segmentation Using Magnetic Resonance Imaging (2022-2)
