@@ -15,33 +15,36 @@
 ## Research Experience
 ***
 ### EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가 
-2024.01 ~ 2024.05 개인 | KCC 2024 장려상 | 졸업 논문 [paper]    [poster]
+2024.01 ~ 2024.06 개인 | 졸업논문 | KCC 2024 장려상 [paper] [poster]
 
 #### 연구 내용
 
-&#45; MNE를 이용하여 EEG에 포함된 노이즈 제거를 위해 Band Pass Filter, Re-Referencing, 독립 성분 분석(ICA)을 적용.<br>
-&#45; EEG 디코딩에 특화된 8가지 딥러닝 기반 분류 모델을 선정. <br>
+&#45; MNE를 이용하여 EEG에 포함된 노이즈 제거를 위해 Band Pass Filter, Re-Referencing, 독립 성분 분석(ICA) 적용.<br>
+&#45; EEG 디코딩에 특화된 8개의 딥러닝 기반 분류 모델 선정. <br>
 &#45; Optuna를 이용하여 각 모델마다 알츠하이머병 진단에 최적화 된 하이퍼파라미터 조합 탐색. <br>
-&#45; 최적화된 각 모델 성능 평가에는 Leave-One-Subject-Out(LOSO) 검증 방법 활용. <br>
+&#45; 최적화된 각 모델 성능 평가를 위한 Leave-One-Subject-Out(LOSO) 검증 구현. <br>
 
 #### 성과 및 느낀점
 
-&#45; 8개의 모델 중 EEGConformer와 ATCNet 모델이 각각 78.59%와 76.36%의 정확도를 기록하며 가장 높은 성능 보임. <br>
+&#45; EEGConformer와 ATCNet 모델이 각각 78.59%와 76.36%의 정확도를 기록하며 가장 높은 성능 보임. <br>
 &#45; 두 모델은 트랜스포머 네트워크의 Multi-Head Attention 모듈을 통합하여 구성된 것이 공통적인 특징. <br>
 &#45; 추가 데이터 수집, 데이터 증강 기법 적용을 통해 모델의 표현력과 하이퍼파라미터의 최적화를 더욱 극대화할 수 있을 것으로 기대. <br>
-&#45; 향후 EEG 데이터를 활용하여 독자적인 딥러닝 기반 분류 모델을 설계할 때, 비교 평가 자료로 활용 가능. <br>
+&#45; 향후 EEG 데이터를 활용하여 독자적인 딥러닝 기반 분류 모델을 설계할 때, 비교 평가 자료로 활용 기대. <br>
 
 ***
 
-#### - Optimization of Pre-trained Text2Video Model for Machine Tool Manual Video Generation (2024-1)
-Text-to-Video 모델을 활용한 공작기계 매뉴얼 영상 생성 연구
-#### - Performance Evaluation of Deep Learning-Based Brain Tumor Segmentation Using Magnetic Resonance Imaging (2022-2)
-U-Net 기반 딥러닝 모델을 활용한 뇌종양 분할 및 성능 평가
+### Text-to-Video 모델을 활용한 공작기계 매뉴얼 영상 생성 연구
+2024.03 ~ 2024.06 팀 5명 | 창의적종합설계 [[more detail](https://github.com/kosonkh7/Encephaloma-Segmentation)]
+
+***
+
+### U-Net 기반 딥러닝 모델을 활용한 뇌종양 분할 및 성능 평가
+2022.09 ~ 2022.12 팀 4명 | 데이터분석캡스톤디자인 [[more detail](https://github.com/kosonkh7/Encephaloma-Segmentation)]
 
 ***
 
 ### 대기행렬이론 기반 컴퓨터 시뮬레이션을 활용한 공공자전거 대여 시스템 재고 불균형 해소 연구
-2022.03 ~ 2022.06 팀 2명 | 컴퓨터 시뮬레이션 [[more detail](https://github.com/kosonkh7/PBSS-Analysis)]
+2022.03 ~ 2022.06 팀 2명 | 컴퓨터시뮬레이션 [[more detail](https://github.com/kosonkh7/PBSS-Analysis)]
 
 #### 문제 정의
 &#45; 따릉이 이용할 때 가까운 대여소에 자전거가 없어서 이용하지 못하여 느낀 불편함을 해소하고자 하는 것이 목적.  <br>
