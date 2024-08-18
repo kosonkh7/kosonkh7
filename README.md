@@ -17,6 +17,12 @@
 ### EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가 
 2024.01 ~ 2024.06 개인 | 졸업논문 | KCC 2024 장려상 [[paper](https://github.com/kosonkh7/kosonkh7/blob/main/paper.pdf)] [[poster](https://github.com/kosonkh7/kosonkh7/blob/main/poster.pdf)]
 
+#### 문제 정의
+&#45; 알츠하이머병은 치매의 주된 원인으로, 현재까지 이 병을 근본적으로 치료할 수 있는 방법은 없다. <br>
+&#45; 진단에 주로 사용되는 MRI는 상당한 신경 변성이 진행된 후에야 유효하고, 시간과 비용이 많이 소요된다. <br>
+&#45; 상대적으로 측정 용이한 EEG에 딥러닝 기반 분류 모델을 적용하여, 알츠하이머병의 조기 진단에 기여하는 것이 목적. <br>
+
+
 #### 연구 내용
 
 &#45; MNE를 이용하여 EEG에 포함된 노이즈 제거를 위해 Band Pass Filter, Re-Referencing, 독립 성분 분석(ICA) 적용.<br>
