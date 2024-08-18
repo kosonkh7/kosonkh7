@@ -40,12 +40,37 @@
 ***
 
 ### Text-to-Video 모델을 활용한 공작기계 매뉴얼 영상 생성 연구
-2024.03 ~ 2024.06 팀 5명 | 창의적종합설계 [[more detail](https://github.com/kosonkh7/Encephaloma-Segmentation)]
+2024.03 ~ 2024.06 팀 5명 | 창의적종합설계 [[more detail](https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning)]
+
+#### 문제 정의
+&#45; 공작기계 조작법이 담긴 매뉴얼은 방대한 내용을 담고 있어 작업자들이 숙지하기에 어려움을 겪음. <br>
+&#45; Sora와 같은 영상 생성 인공지능(Text-to-Video) 모델의 발전으로 전방위적인 기술 혁신 예상. <br>
+&#45; 알고자 하는 공작기계 공법을 동영상으로 바로 제시하여 이용자에게 편의를 제공하는 것이 목적. <br>
+
+#### 연구 내용
+&#45; 공작기계 영상 및 이미지 데이터셋 구성. 각 데이터 별 적절한 프롬프트 설계 및 라벨링. <br>
+&#45; AnimateDIFF 프레임워크 활용 (사전 학습된 Text-to-Image(T2I) 모델에 Motion Module을 적용하여 영상으로 변환하는 프레임워크) <br>
+&#45; LoRA를 이용하여 T2I 모델을 공작기계 이미지 데이터로 Fine-Tuning. <br>
+&#45; Motion Director를 이용하여 Motion Module을 공작기계 영상 데이터로 Fine-Tuning.   <br>
+
+
+#### 성과 및 느낀점
+[생성 결과 영상(https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning?tab=readme-ov-file#conclusion)]
+&#45; 본 연구에선 공작기계의 가장 핵심적인 공정 기법인 밀링과 터닝을 구현.
+&#45; 추가적인 데이터 수집과 학습을 통해 머시닝 센터(복합가공기)의 모든 공정을 반영하는 모델 개발 기대.
+&#45; 공작기계는 제조사마다 생김새가 다르기에, 특정 기계의 영상 / 이미지 데이터를 수집 및 학습에 활용한다면 더 좋은 결과 생성할 수 있을 것.
+&#45; 향후 Sora와 같은 모델이 오픈소스로 공개된다면 이에 맞는 Fine-Tuning을 통해 보다 정밀한 영상 생성 가능할 것. <br>
 
 ***
 
 ### U-Net 기반 딥러닝 모델을 활용한 뇌종양 분할 및 성능 평가
 2022.09 ~ 2022.12 팀 4명 | 데이터분석캡스톤디자인 [[more detail](https://github.com/kosonkh7/Encephaloma-Segmentation)]
+
+#### 문제 정의
+
+#### 연구 내용
+
+#### 성과 및 느낀점
 
 ***
 
