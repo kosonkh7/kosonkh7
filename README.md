@@ -54,8 +54,7 @@
 &#45; Motion Director를 이용하여 Motion Module을 공작기계 영상 데이터로 Fine-Tuning.   <br>
 
 
-#### 성과 및 느낀점
-[생성 결과 영상(https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning?tab=readme-ov-file#conclusion)]
+#### 성과 및 느낀점 [[생성 결과 영상](https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning?tab=readme-ov-file#conclusion)]
 &#45; 본 연구에선 공작기계의 가장 핵심적인 공정 기법인 밀링과 터닝을 구현. <br>
 &#45; 추가적인 데이터 수집과 학습을 통해 머시닝 센터(복합가공기)의 모든 공정을 반영하는 모델 개발 기대. <br>
 &#45; 공작기계는 제조사마다 생김새가 다르기에, 특정 기계의 영상 / 이미지 데이터를 수집 및 학습에 활용한다면 더 좋은 결과 생성할 수 있을 것. <br>
