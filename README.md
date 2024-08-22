@@ -9,8 +9,7 @@
 - GPA: 3.84 / 4.5
 
 ## Tech Stacks
-[![Solved.ac
-kosonkh7](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kosonkh7)](https://solved.ac/kosonkh7) <br>
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,pytorch,opencv,github,vscode,notion&theme=light)](https://skillicons.dev)
 
 ## Research Experience
