@@ -72,7 +72,8 @@
 
 #### 연구 내용
 &#45; Elastic Deformation을 이용하여 데이터 증강. <br>
-&#45; U-Net 기반 4가지 네트워크(Unet, ResUnet, DeepResUnet, HybridResUnet) 선정 및 학습, 평가.  <br>
+&#45; U-Net 기반 4가지 네트워크(Unet, ResUnet, DeepResUnet, HybridResUnet).  <br>
+&#45; 모델 별 학습 평가 지표 모니터링.
 
 #### 성과 및 느낀점
 &#45; U-Net 모델 0.7833(IoU), 0.8585(F1-score)로 가장 높은 성능 보임.
