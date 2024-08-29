@@ -116,7 +116,7 @@
 
 ## Awards
 - KCC(한국컴퓨터종합학술대회) 학부생 부문 장려상 (한국정보과학회, 2024)
-- 지식재산능력시험 우수상 (경희대학교, 2018)
+- 지식재산능력시험 우수상 (경희대학교 지식창업교육센터, 2018)
 - FIELD(Future Industrial Engineering Leaders and Dreamers) 컴페티션 대상 (대한산업공학회, 2017)
 
 ## Language skills
