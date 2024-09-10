@@ -15,7 +15,7 @@
 ## Research Experience
 ***
 ### EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가 
-2024.01 ~ 2024.06 개인 | 졸업논문 | **KCC 2024 장려상** [[paper](https://github.com/kosonkh7/kosonkh7/blob/main/paper.pdf)] [[poster](https://github.com/kosonkh7/kosonkh7/blob/main/poster.pdf)]
+2024.01 ~ 2024.06 개인 | 졸업논문 | **KCC 2024 수상** [[paper](https://github.com/kosonkh7/kosonkh7/blob/main/paper.pdf)] [[poster](https://github.com/kosonkh7/kosonkh7/blob/main/poster.pdf)]
 
 #### 문제 정의
 &#45; 현대 의학 기술의 발전에 따라, 치료보다 **질환의 조기 진단 및 예방이 보다 중요**하게 여겨지는 추세. <br>
