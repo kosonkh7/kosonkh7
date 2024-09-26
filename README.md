@@ -126,7 +126,7 @@
 - 생성형 인공지능 기반 AI 커버곡 유튜브 채널 운영 [[link](https://www.youtube.com/channel/UCuizYZgtZva8zTvNwpy4Cbg)] [[repo](https://github.com/kosonkh7/RVC_Voice_Conversion)]
 - Google Advanced Data Analytics Professional 자격 수료 (Coursera, Google, 온라인 과정, 2023.03~2023.06)
 - SQL 데이터 분석 캠프 이수 (데이터리안, 온라인 과정, 2023.11~2023.12)
-- 00투자증권 IB부서 기업 분석 체험형 인턴 (2021.02)
+- 0000증권 IB부서 기업 분석 체험형 인턴 (2021.02)
 
 
 
