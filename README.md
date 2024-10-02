@@ -8,10 +8,6 @@
 - **B.E.** in Department of **Software Convergence**, Kyung Hee University, 2017.03 - 2024.08.
 - GPA: 3.84 / 4.5
 
-## Tech Stacks
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kosonkh7)](https://solved.ac/kosonkh7) <br>
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,pytorch,opencv,github,vscode,notion&theme=light)](https://skillicons.dev)
-
 ## Research Experience
 ***
 ### EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가 
@@ -128,7 +124,9 @@
 - SQL 데이터 분석 캠프 이수 (데이터리안, 온라인 과정, 2023.11~2023.12)
 - 0000증권 IB부서 기업 분석 체험형 인턴 (2021.02)
 
-
+## Tech Stacks
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kosonkh7)](https://solved.ac/kosonkh7) <br>
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,pytorch,opencv,github,vscode,notion&theme=light)](https://skillicons.dev)
 
 <!--
 **kosonkh7/kosonkh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
