@@ -119,11 +119,11 @@
 - TOEIC(855)
 
 ## Extra Activities
-- 00 AIVLE School AI 개발자 트랙 (2024.09~진행중)
+- **00 AIVLE School AI 개발자 트랙 (2024.09~2025.02(진행중))**
 - 생성형 인공지능 기반 AI 커버곡 유튜브 채널 운영 [[link](https://www.youtube.com/channel/UCuizYZgtZva8zTvNwpy4Cbg)] [[repo](https://github.com/kosonkh7/RVC_Voice_Conversion)]
 - Google Advanced Data Analytics Professional 자격 수료 (Coursera, Google, 온라인 과정, 2023.03~2023.06)
 - SQL 데이터 분석 캠프 이수 (데이터리안, 온라인 과정, 2023.11~2023.12)
-- 0000증권 IB부서 기업 분석 체험형 인턴 (2021.02)
+- 000000 IB전략부서 기업 분석 체험형 인턴 (2021.02~2021.03)
 
 ## Tech Stacks
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kosonkh7)](https://solved.ac/kosonkh7) <br>
