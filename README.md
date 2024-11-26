@@ -6,6 +6,7 @@
 ## Educations
 - **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
 - **B.E.** in Department of **Software Convergence**, Kyung Hee University, 2017.03 - 2024.08.
+- **(Bootcamp) KT AIVLE School AI Developer Track**, 2024.09 - Present(due to 2025.02)
 - GPA: 3.84 / 4.5
 
 ## Research Experience
@@ -119,7 +120,6 @@
 - TOEIC(855)
 
 ## Extra Activities
-- **KT AIVLE School AI Developer Track (2024.09~2025.02(진행중))**
 - 생성형 인공지능 기반 AI 커버곡 유튜브 채널 운영 [[link](https://www.youtube.com/channel/UCuizYZgtZva8zTvNwpy4Cbg)] [[repo](https://github.com/kosonkh7/RVC_Voice_Conversion)]
 - Google Advanced Data Analytics Professional 자격 수료 (Coursera, Google, 온라인 과정, 2023.03~2023.06)
 - SQL 데이터 분석 캠프 이수 (데이터리안, 온라인 과정, 2023.11~2023.12)
