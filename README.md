@@ -1,6 +1,6 @@
 ## Honor to meet YOU! 
 - I'm **Gwang Ha Go**👋, researcher with strong intellectual curiosity and prudence.
-- I wanna contribute to realistic problem solving through well-organized technology.
+- I wanna contribute to solving realistic problem through well-organized technology.
 - I have a interest in Data Science and aim to solve complex problems experimentally.
 
 ## Educations
