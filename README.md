@@ -4,8 +4,8 @@
 - I have a interest in Data Science and aim to solve complex problems experimentally.
 
 ## Educations
-- **B.E.** in Department of **Industrial & Management Systems Engineering**, - University, 2017.03 - 2024.08.
-- **B.E.** in Department of **Software Convergence**, - University, 2017.03 - 2024.08.
+- **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
+- **B.E.** in Department of **Software Convergence**, Kyung Hee University, 2017.03 - 2024.08.
 - KT AIVLE School AI Developer Track, Software Engineering Bootcamp, 2024.09 - Present(2025.02)
 - GPA: 3.84 / 4.5
 
