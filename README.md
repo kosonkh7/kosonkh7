@@ -1,11 +1,11 @@
 ## Honor to meet YOU! 
-- I'm **Gwang Ha Go**👋, researcher with strong intellectual curiosity and prudence.
+- I'm **Name**👋, researcher with strong intellectual curiosity and prudence.
 - I wanna contribute to solving realistic problem through well-organized technology.
 - I have a interest in Data Science and aim to solve complex problems experimentally.
 
 ## Educations
-- **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
-- **B.E.** in Department of **Software Convergence**, Kyung Hee University, 2017.03 - 2024.08.
+- **B.E.** in Department of **Industrial & Management Systems Engineering**, - University, 2017.03 - 2024.08.
+- **B.E.** in Department of **Software Convergence**, - University, 2017.03 - 2024.08.
 - KT AIVLE School AI Developer Track, Software Engineering Bootcamp, 2024.09 - Present(2025.02)
 - GPA: 3.84 / 4.5
 
@@ -113,7 +113,7 @@
 
 ## Awards
 - 한국컴퓨터종합학술대회(KCC) 학부생 부문 장려상 (한국정보과학회, 2024)
-- 지식재산능력시험 우수상 (경희대학교 지식창업교육센터, 2018)
+- 지식재산능력시험 우수상 (-대학교 지식창업교육센터, 2018)
 - FIELD(Future Industrial Engineering Leaders and Dreamers) 컴페티션 대상 (대한산업공학회, 2017)
 
 ## Language skills
