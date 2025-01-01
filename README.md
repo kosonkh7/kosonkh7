@@ -1,5 +1,5 @@
 ## Honor to meet YOU! 
-- I'm **Name**👋, researcher with strong intellectual curiosity and prudence.
+- I'm **Gwangha Go**👋, researcher with strong intellectual curiosity and prudence.
 - I wanna contribute to solving realistic problem through well-organized technology.
 - I have a interest in Data Science and aim to solve complex problems experimentally.
 
