@@ -3,12 +3,6 @@
 - I wanna contribute to solving realistic problem through well-organized technology.
 - I have a interest in Data Science and aim to solve complex problems experimentally.
 
-## Educations
-- **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
-- **B.E.** in Department of **Software Convergence**, Kyung Hee University, 2017.03 - 2024.08.
-- KT AIVLE School AI Developer Track, Software Engineering Bootcamp, 2024.09 - Present(2025.02)
-- GPA: 3.84 / 4.5
-
 ## Research Experience
 ***
 ### EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가 
@@ -103,6 +97,12 @@
 
 
 ***
+
+## Educations
+- **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
+- **B.E.** in Department of **Software Convergence**, Kyung Hee University, 2017.03 - 2024.08.
+- KT AIVLE School AI Developer Track, Software Engineering Bootcamp, 2024.09 - Present(2025.02)
+- GPA: 3.84 / 4.5
 
 ## Certifications
 - 빅데이터분석기사 (과학기술정보통신부, 통계청, 2023.12) [[repo](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/BigDataAnalysis_Certificate)]
