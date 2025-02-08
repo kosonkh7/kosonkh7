@@ -105,7 +105,7 @@
 - GPA: 3.84 / 4.5
 
 ## Certifications
-- AICE ASSOCIATE (KT, 한국경제, 2025.02)
+- AICE Associate (KT, 2025.02)
 - 빅데이터분석기사 (과학기술정보통신부, 통계청, 2023.12) [[repo](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/BigDataAnalysis_Certificate)]
 - SQLD (한국데이터산업진흥원, 2021.10)
 - ADsP (한국데이터산업진흥원, 2020.09)
