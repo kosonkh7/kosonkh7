@@ -133,10 +133,10 @@
 ***
 
 ## Language skills
-- TOEIC(855)
+- TOEIC(855, 2024.06)
 
 ## Extra Activities
-- 생성형 인공지능 기반 AI 커버곡 유튜브 채널 운영 [[link](https://www.youtube.com/channel/UCuizYZgtZva8zTvNwpy4Cbg)] [[repo](https://github.com/kosonkh7/RVC_Voice_Conversion)]
+- RVC 음성 생성 인공지능 프레임워크 기반 AI 커버곡 유튜브 채널 운영 [[link](https://www.youtube.com/channel/UCuizYZgtZva8zTvNwpy4Cbg)] [[repo](https://github.com/kosonkh7/RVC_Voice_Conversion)]
 - SQL 데이터 분석 캠프 이수 (데이터리안, 온라인 과정, 2023.11~2023.12)
 - Google Advanced Data Analytics Professional 자격 수료 (Coursera, Google, 온라인 과정, 2023.03~2023.06)
 - 000000 IB전략부서 기업 분석 체험형 인턴 (2021.02~2021.03)
