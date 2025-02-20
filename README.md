@@ -1,7 +1,6 @@
 ## Honor to meet YOU! 
 - I'm **Gwangha Go**👋, researcher with strong intellectual curiosity and prudence.
-- I wanna contribute to solving realistic problem through well-organized technology.
-- I have a interest in Data Science and aim to solve complex problems experimentally.
+- I wanna contribute to solving realistic problem through well-structured Data Science in an experimental way.
 
 ## 🎓​​Educations
 - **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
