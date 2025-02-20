@@ -5,12 +5,15 @@
 
 ## Projects
 - AI-Based Optimal Management System for Micro-Fulfillment Center <br>
-(AI: Tensorflow, FastAPI, Docker, etc)
+(AI: Tensorflow, YOLO, OpenAI, etc. FastAPI, Docker, etc)
 - Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data <br>
-(Braindecode, sklearn, etc)
-- Generating Machine Tool Instructional Videos Using a Text-to-Video Framework  <br>
+(AI: Braindecode, sklearn, etc)
+- Generating Machine Tool Instructional Videos Using a AnimateDiff Framework (Text-to-Video)  <br>
+(AI: Diffusers, Pytorch)
 - Performance Evaluation of U-Net Architecture Based Encephaloma Segmentation Using Magnetic Resonance Imaging <br>
+(AI: Pytorch)
 - Queueing Theory-Based Computer Simulation Approach to Balancing Public Bike Rental Inventory <br>
+(Simulation: Simio, Analysis: Python, Scipy, @Risk)
 
 ## Research Experience
 ***
