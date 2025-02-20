@@ -1,6 +1,6 @@
 ## Honor to meet YOU! 
-&#45; I'm **Gwangha Go**👋, researcher with strong intellectual curiosity and prudence. <br>
-&#45; I wanna contribute to solving realistic problem through well-structured Data Science.
+- I'm **Gwangha Go**👋, researcher with strong intellectual curiosity and prudence. <br>
+- I wanna contribute to solving realistic problem through well-structured Data Science.
 
 ## 🎓​​Educations
 - **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
