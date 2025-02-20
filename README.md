@@ -4,16 +4,20 @@
 - I have a interest in Data Science and aim to solve complex problems experimentally.
 
 ## Projects
-- AI-Based Optimal Management System for Micro-Fulfillment Center <br>
-(AI: Tensorflow, YOLO, OpenAI, etc. FastAPI, Docker, etc)
+- SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center <br>
+(Backend: Spring, FastAPI, Docker, AI: Tensorflow, Ultralytics, OpenAI, Deployment: Azure, Team Leader(of 5, KT AivleSchool))<br>
+
 - Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data <br>
-(AI: Braindecode, sklearn, etc)
+(AI: Braindecode, Sklearn, Analysis: MNE, Python, 1st Author(of 1, Bachelor's Thesis)) <br>
+
 - Generating Machine Tool Instructional Videos Using a AnimateDiff Framework (Text-to-Video)  <br>
-(AI: Diffusers, Pytorch)
+(AI: Diffusers, Huggingface, Team Leader(of 5, IE Capstone Design)) <br>
+
 - Performance Evaluation of U-Net Architecture Based Encephaloma Segmentation Using Magnetic Resonance Imaging <br>
-(AI: Pytorch)
+(AI: Pytorch, Team Leader(of 4, Data Analysis Capstone Design)) <br>
+
 - Queueing Theory-Based Computer Simulation Approach to Balancing Public Bike Rental Inventory <br>
-(Simulation: Simio, Analysis: Python, Scipy, @Risk)
+(Simulation: Simio, Analysis: Python, Scipy, @Risk, Team Leader(of 2, Computer Simulation))
 
 ## Research Experience
 ***
