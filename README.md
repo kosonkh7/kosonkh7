@@ -16,7 +16,7 @@
 - ✅​Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data, 2024.01 - 2024.06 <br>
 (AI: Braindecode, Sklearn, Analysis: MNE, Python, 1st Author(of 1, Bachelor's Thesis)) <br>
 
-- ✅​Generating Machine Tool Instructional Videos Using a AnimateDiff Framework (Text-to-Video), 2024.03 - 2024.06  <br>
+- ✅​Generating Machine Tool Instructional Videos Using AnimateDiff Framework (Text-to-Video), 2024.03 - 2024.06  <br>
 (AI: Diffusers, Huggingface, Team Leader(of 5, IE Capstone Design)) <br>
 
 - ✅​Performance Evaluation of U-Net Architecture Based Encephaloma Segmentation Using Magnetic Resonance Imaging, 2022.09 - 2022.12  <br>
