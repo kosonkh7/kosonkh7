@@ -3,21 +3,40 @@
 - I wanna contribute to solving realistic problem through well-organized technology.
 - I have a interest in Data Science and aim to solve complex problems experimentally.
 
-## Projects
-- SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center <br>
+## 🎓​​Educations
+- **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
+- **B.E.** in Department of **Software Convergence**, Kyung Hee University, 2017.03 - 2024.08.
+- GPA: 3.84 / 4.5
+- KT AivleSchool AI-Developer Track, 2024.09 - 2025.02
+
+## 📚​Projects
+- ✅​SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center <br>
 (Backend: Spring, FastAPI, Docker, AI: Tensorflow, Ultralytics, OpenAI, Deployment: Azure, Team Leader(of 5, KT AivleSchool))<br>
 
-- Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data <br>
+- ✅​Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data <br>
 (AI: Braindecode, Sklearn, Analysis: MNE, Python, 1st Author(of 1, Bachelor's Thesis)) <br>
 
-- Generating Machine Tool Instructional Videos Using a AnimateDiff Framework (Text-to-Video)  <br>
-(AI: Diffusers, Huggingface, Team Leader(of 5, IE Capstone Design)) <br>
+- ✅​Generating Machine Tool Instructional Videos Using a AnimateDiff Framework (Text-to-Video)  <br>
+(AI: Diffusers, Huggingface, Team Leader, AI Modeling(of 5, IE Capstone Design)) <br>
 
-- Performance Evaluation of U-Net Architecture Based Encephaloma Segmentation Using Magnetic Resonance Imaging <br>
-(AI: Pytorch, Team Leader(of 4, Data Analysis Capstone Design)) <br>
+- ✅​Performance Evaluation of U-Net Architecture Based Encephaloma Segmentation Using Magnetic Resonance Imaging <br>
+(AI: Pytorch, Product Manager(of 4, Data Analysis Capstone Design)) <br>
 
-- Queueing Theory-Based Computer Simulation Approach to Balancing Public Bike Rental Inventory <br>
+- ✅​Queueing Theory-Based Computer Simulation Approach to Balancing Public Bike Rental Inventory <br>
 (Simulation: Simio, Analysis: Python, Scipy, @Risk, Team Leader(of 2, Computer Simulation))
+
+## 🪪​Certifications
+- AICE Associate (KT, 2025.02)
+- 빅데이터분석기사 (과학기술정보통신부, 통계청, 2023.12) [[repo](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/BigDataAnalysis_Certificate)]
+- SQLD (한국데이터산업진흥원, 2021.10)
+- ADsP (한국데이터산업진흥원, 2020.09)
+- ITQ OA Master (한국생산성본부, 2019.12)
+- 컴퓨터활용능력(2) (대한상공회의소, 2019.08)
+
+## 🏅​Awards
+- 한국컴퓨터종합학술대회(KCC) 학부생 부문 장려상 (한국정보과학회, 2024)
+- 지식재산능력시험 우수상 (경희대학교 지식창업교육센터, 2018)
+- FIELD(Future Industrial Engineering Leaders and Dreamers) 컴페티션 대상 (대한산업공학회, 2017)
 
 ## Research Experience
 ***
@@ -113,25 +132,6 @@
 
 
 ***
-
-## Educations
-- **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
-- **B.E.** in Department of **Software Convergence**, Kyung Hee University, 2017.03 - 2024.08.
-- KT AIVLE School AI Developer Track, Software Engineering Bootcamp, 2024.09 - Present(2025.02)
-- GPA: 3.84 / 4.5
-
-## Certifications
-- AICE Associate (KT, 2025.02)
-- 빅데이터분석기사 (과학기술정보통신부, 통계청, 2023.12) [[repo](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/BigDataAnalysis_Certificate)]
-- SQLD (한국데이터산업진흥원, 2021.10)
-- ADsP (한국데이터산업진흥원, 2020.09)
-- ITQ OA Master (한국생산성본부, 2019.12)
-- 컴퓨터활용능력(2) (대한상공회의소, 2019.08)
-
-## Awards
-- 한국컴퓨터종합학술대회(KCC) 학부생 부문 장려상 (한국정보과학회, 2024)
-- 지식재산능력시험 우수상 (경희대학교 지식창업교육센터, 2018)
-- FIELD(Future Industrial Engineering Leaders and Dreamers) 컴페티션 대상 (대한산업공학회, 2017)
 
 ## Language skills
 - TOEIC(855)
