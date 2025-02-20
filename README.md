@@ -9,7 +9,7 @@
 - GPA: 3.84 / 4.5
 - KT AivleSchool AI-Developer Track, 2024.09 - 2025.02
 
-## 📚​Projects
+## 📚​Main Projects
 - ✅​SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center, 2024.12 - 2025.02. <br>
 (Backend: Spring, FastAPI, Docker, AI: Tensorflow, Ultralytics, OpenAI, Deployment: Azure, Team Leader(of 5, KT AivleSchool))<br>
 
