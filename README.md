@@ -10,19 +10,19 @@
 - KT AivleSchool AI-Developer Track, 2024.09 - 2025.02
 
 ## 📚​Projects
-- ✅​SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center <br>
+- ✅​SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center, 2024.12 - 2025.02. <br>
 (Backend: Spring, FastAPI, Docker, AI: Tensorflow, Ultralytics, OpenAI, Deployment: Azure, Team Leader(of 5, KT AivleSchool))<br>
 
-- ✅​Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data <br>
+- ✅​Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data, 2024.01 - 2024.06 <br>
 (AI: Braindecode, Sklearn, Analysis: MNE, Python, 1st Author(of 1, Bachelor's Thesis)) <br>
 
-- ✅​Generating Machine Tool Instructional Videos Using a AnimateDiff Framework (Text-to-Video)  <br>
-(AI: Diffusers, Huggingface, Team Leader, AI Modeling(of 5, IE Capstone Design)) <br>
+- ✅​Generating Machine Tool Instructional Videos Using a AnimateDiff Framework (Text-to-Video), 2024.03 - 2024.06  <br>
+(AI: Diffusers, Huggingface, Team Leader(of 5, IE Capstone Design)) <br>
 
-- ✅​Performance Evaluation of U-Net Architecture Based Encephaloma Segmentation Using Magnetic Resonance Imaging <br>
-(AI: Pytorch, Product Manager(of 4, Data Analysis Capstone Design)) <br>
+- ✅​Performance Evaluation of U-Net Architecture Based Encephaloma Segmentation Using Magnetic Resonance Imaging, 2022.09 - 2022.12  <br>
+(AI: Pytorch, Team Leader(of 4, Data Analysis Capstone Design)) <br>
 
-- ✅​Queueing Theory-Based Computer Simulation Approach to Balancing Public Bike Rental Inventory <br>
+- ✅​Queueing Theory-Based Computer Simulation Approach to Balancing Public Bike Rental Inventory, 2022.04 - 2022.06  <br>
 (Simulation: Simio, Analysis: Python, Scipy, @Risk, Team Leader(of 2, Computer Simulation))
 
 ## 🪪​Certifications
@@ -34,14 +34,14 @@
 - 컴퓨터활용능력(2) (대한상공회의소, 2019.08)
 
 ## 🏅​Awards
-- 한국컴퓨터종합학술대회(KCC) 학부생 부문 장려상 (한국정보과학회, 2024)
+- 한국컴퓨터종합학술대회(KCC2024) 학부생 부문 장려상 (한국정보과학회, 2024)
 - 지식재산능력시험 우수상 (경희대학교 지식창업교육센터, 2018)
 - FIELD(Future Industrial Engineering Leaders and Dreamers) 컴페티션 대상 (대한산업공학회, 2017)
 
 ## Research Experience
 ***
 ### EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가 
-2024.01 ~ 2024.06 개인 | 졸업논문 | **KCC 2024 수상** [[paper](https://github.com/kosonkh7/kosonkh7/blob/main/paper.pdf)] [[poster](https://github.com/kosonkh7/kosonkh7/blob/main/poster.pdf)]
+2024.01 - 2024.06 개인 | 졸업논문 | **KCC 2024 수상** [[paper](https://github.com/kosonkh7/kosonkh7/blob/main/paper.pdf)] [[poster](https://github.com/kosonkh7/kosonkh7/blob/main/poster.pdf)]
 
 #### 문제 정의
 &#45; 현대 의학 기술의 발전에 따라, 치료보다 **질환의 조기 진단 및 예방이 보다 중요**하게 여겨지는 추세. <br>
@@ -66,7 +66,7 @@
 ***
 
 ### Text-to-Video 모델을 활용한 공작기계 매뉴얼 영상 생성 연구
-2024.03 ~ 2024.06 팀 5명 | 창의적종합설계 [[more detail](https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning)]
+2024.03 - 2024.06 팀 5명 | 창의적종합설계 [[more detail](https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning)]
 
 #### 문제 정의
 &#45; 공작기계 조작법이 담긴 매뉴얼은 방대한 내용을 담고 있어 작업자들이 숙지하기에 어려움을 겪음. <br>
@@ -89,7 +89,7 @@
 ***
 
 ### U-Net 기반 딥러닝 모델을 활용한 뇌종양 분할 및 성능 평가
-2022.09 ~ 2022.12 팀 4명 | 데이터분석캡스톤디자인 [[more detail](https://github.com/kosonkh7/Encephaloma-Segmentation)]
+2022.09 - 2022.12 팀 4명 | 데이터분석캡스톤디자인 [[more detail](https://github.com/kosonkh7/Encephaloma-Segmentation)]
 
 #### 문제 정의
 &#45; **뇌종양 제거 수술 및 추적 관리에는 매우 정밀한 종양 영역 검출 요구**. <br>
@@ -109,7 +109,7 @@
 ***
 
 ### 대기행렬이론 기반 컴퓨터 시뮬레이션을 활용한 공공자전거 대여 시스템 재고 불균형 해소 연구
-2022.03 ~ 2022.06 팀 2명 | 컴퓨터시뮬레이션 [[more detail](https://github.com/kosonkh7/PBSS-Analysis)]
+2022.03 - 2022.06 팀 2명 | 컴퓨터시뮬레이션 [[more detail](https://github.com/kosonkh7/PBSS-Analysis)]
 
 #### 문제 정의
 &#45; **가까운 대여소에 따릉이가 없어서 이용하지 못한 불편함을 해소하는 것이 목적**.  <br>
