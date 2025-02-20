@@ -3,6 +3,15 @@
 - I wanna contribute to solving realistic problem through well-organized technology.
 - I have a interest in Data Science and aim to solve complex problems experimentally.
 
+## Projects
+- AI-Based Optimal Management System for Micro-Fulfillment Center <br>
+(AI: Tensorflow, FastAPI, Docker, etc)
+- Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data <br>
+(Braindecode, sklearn, etc)
+- Generating Machine Tool Instructional Videos Using a Text-to-Video Framework  <br>
+- Performance Evaluation of U-Net Architecture Based Encephaloma Segmentation Using Magnetic Resonance Imaging <br>
+- Queueing Theory-Based Computer Simulation Approach to Balancing Public Bike Rental Inventory <br>
+
 ## Research Experience
 ***
 ### EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가 
