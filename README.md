@@ -4,7 +4,7 @@
 
 ## 🎓​​Educations
 - **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
-- **B.E.** in Department of **Software Convergence**, Kyung Hee University, 2017.03 - 2024.08.
+- **B.E.** in Department of **Software Convergence Engineering**, Kyung Hee University, 2017.03 - 2024.08.
 - GPA: 3.84 / 4.5
 - KT AivleSchool AI-Developer Track, 2024.09 - 2025.02
 
