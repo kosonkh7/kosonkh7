@@ -24,7 +24,7 @@
 - ✅[​Queueing Theory-Based Computer Simulation Approach to Balancing Public Bike Sharing System Inventory](https://github.com/kosonkh7/PBSS-Analysis), 2022.04 - 2022.06  <br>
 (Simulation: Simio, Analysis: Python, Scipy, @Risk, Team Leader(of 2, Computer Simulation))
 
-## 🪪​Certifications
+## 🎫​​Certifications
 - AICE Associate (KT, 2025.02)
 - 빅데이터분석기사 (과학기술정보통신부, 통계청, 2023.12) [[repo](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/BigDataAnalysis_Certificate)]
 - SQLD (한국데이터산업진흥원, 2021.10)
