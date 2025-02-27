@@ -65,7 +65,7 @@
 
 ***
 
-### AnimateDiff 프레임워크를 활용한 Text-to-Video 공작기계 매뉴얼 영상 생성 연구
+### AnimateDiff 프레임워크를 활용한 공작기계 매뉴얼 영상 생성 연구 (Text-to-Video)
 2024.03 - 2024.06 팀 5명 | 창의적종합설계 [[more detail](https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning)]
 
 #### 문제 정의
