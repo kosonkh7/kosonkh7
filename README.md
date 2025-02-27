@@ -33,9 +33,10 @@
 - 컴퓨터활용능력(2) (대한상공회의소, 2019.08)
 
 ## 🏅​Awards
-- 한국컴퓨터종합학술대회(KCC2024) 학부생 부문 장려상 (한국정보과학회, 2024)
-- 지식재산능력시험 우수상 (경희대학교 지식창업교육센터, 2018)
-- FIELD(Future Industrial Engineering Leaders and Dreamers) 컴페티션 대상 (대한산업공학회, 2017)
+- KT에이블스쿨 우수 성적상(Dean's List) (KT, 2025.02)
+- 한국컴퓨터종합학술대회(KCC2024) 학부생 부문 장려상 (한국정보과학회, 2024.07)
+- 지식재산능력시험 우수상 (경희대학교 지식창업교육센터, 2018.09)
+- FIELD(Future Industrial Engineering Leaders and Dreamers) 컴페티션 대상 (대한산업공학회, 2017.08)
 
 ## Research Experience
 ***
