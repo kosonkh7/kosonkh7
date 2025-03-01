@@ -12,6 +12,9 @@
 - ✅​SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center, 2024.12 - 2025.02. <br>
 (Backend: Spring, FastAPI, Docker, AI: Tensorflow, Ultralytics, OpenAI, Deployment: Azure, Team Leader(of 5, KT AivleSchool))<br>
 
+- ✅ [LLM-Based Emergency Room Recommendation Service](https://github.com/kosonkh7/LLM-Emergency-Recommendation), 2024.11 - 2024.12. <br>
+(Backend: Spring, FastAPI, Docker, AI: Huggingface, OpenAI, Deployment: Azure, Team Member(of 5, KT AivleSchool))<br>
+
 - ✅​[Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data](https://github.com/kosonkh7/kosonkh7/blob/main/poster.pdf), 2024.01 - 2024.06 <br>
 (AI: Braindecode, Sklearn, Analysis: MNE, Python, 1st Author(of 1, Bachelor's Thesis)) <br>
 
