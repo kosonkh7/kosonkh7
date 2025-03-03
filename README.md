@@ -21,7 +21,7 @@
 - ✅​[Generating Machine Tool Instructional Videos Using AnimateDiff Framework (Text-to-Video)](https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning), 2024.03 - 2024.06  <br>
 (AI: Diffusers, Huggingface, Team Leader(of 5, IE Capstone Design)) <br>
 
-- ✅[Performance Evaluation of U-Net Architecture Based Encephaloma Segmentation Using MRI](https://github.com/kosonkh7/Encephaloma-Segmentation), 2022.09 - 2022.12  <br>
+- ✅[Performance Evaluation of U-Net Architecture Based Encephaloma Segmentation Using MRI Data](https://github.com/kosonkh7/Encephaloma-Segmentation), 2022.09 - 2022.12  <br>
 (AI: Pytorch, Team Leader(of 4, Data Analysis Capstone Design)) <br>
 
 - ✅[​Queueing Theory-Based Computer Simulation Approach to Balancing Public Bike Sharing System Inventory](https://github.com/kosonkh7/PBSS-Analysis), 2022.04 - 2022.06  <br>
