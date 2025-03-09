@@ -9,7 +9,7 @@
 - KT AIVLE School AI-Developer Track, 2024.09 - 2025.02
 
 ## 📚​Main Projects
-- ✅​SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center, 2024.12 - 2025.02. <br>
+- ✅​[SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center](https://github.com/team4-pj-25), 2024.12 - 2025.02. <br>
 (Backend: Spring, FastAPI, Docker, AI: Tensorflow, Ultralytics, OpenAI, Deployment: Azure, Team Leader(of 5, KT AivleSchool))<br>
 
 - ✅[LLM-Powered Automated Emergency Room Connection Service](https://github.com/kosonkh7/LLM-Emergency-Connection), 2024.11 - 2024.12. <br>
