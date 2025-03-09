@@ -137,6 +137,7 @@
 ***
 
 ## Language skills
+- OPIC(IH, 2025.03)
 - TOEIC(855, 2024.06)
 
 ## Extra Activities
