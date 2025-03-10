@@ -25,7 +25,7 @@
 (AI: Pytorch, Team Leader(of 4, Data Analysis Capstone Design)) <br>
 
 - ✅[​Queueing Theory-Based Computer Simulation Approach to Balancing Public Bike Sharing System Inventory](https://github.com/kosonkh7/PBSS-Analysis), 2022.04 - 2022.06  <br>
-(Simulation: Simio, Analysis: Python, Scipy, @Risk, Team Leader(of 2, Computer Simulation))
+(Simulation: Simio, Analysis: Python, Scipy, @Risk, Team Leader(of 2, Computer Simulation(A+)))
 
 ## 🎫​​Certifications
 - AICE Associate (KT, 2025.02)
