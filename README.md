@@ -6,7 +6,7 @@
 - **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
 - **B.E.** in Department of **Software Convergence Engineering**, Kyung Hee University, 2017.03 - 2024.08.
 - GPA: 3.84 / 4.5
-- KT AIVLE School AI-Developer Track, 2024.09 - 2025.02
+- KT AIVLE School AI-Developer Track, 2024.09 - 2025.02.
 
 ## 📚​Main Projects
 - ✅​[SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center](https://github.com/team4-pj-25), 2024.12 - 2025.02. <br>
