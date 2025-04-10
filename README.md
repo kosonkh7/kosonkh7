@@ -11,7 +11,7 @@
 ## 📚​Main Projects
 - ✅​[SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center](https://github.com/team4-pj-25), 2024.12 - 2025.02. <br>
 (Backend: Spring, FastAPI, Docker, AI: Tensorflow, Ultralytics, OpenAI, Deployment: Azure, Team Leader(of 5, KT AivleSchool))<br>
-Specifically implemented [AI service for Optimal Stock Level Estimation using LSTM](https://github.com/kosonkh7/Optimal-Stock-Forecasting)
+-> Specifically implemented [AI service for Optimal Stock Level Estimation using LSTM](https://github.com/kosonkh7/Optimal-Stock-Forecasting)
 
 - ✅[LLM-Powered Automated Emergency Room Connection Service](https://github.com/kosonkh7/LLM-Emergency-Connection), 2024.11 - 2024.12. <br>
 (Backend: Spring, FastAPI, Docker, AI: Huggingface, OpenAI, Deployment: Azure, Team Member(of 5, KT AivleSchool))<br>
