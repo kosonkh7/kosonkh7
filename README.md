@@ -152,7 +152,7 @@
 
 ## Tech Stacks
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kosonkh7)](https://solved.ac/kosonkh7) <br>
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,java,sklearn,tensorflow,pytorch,docker,spring,github,vscode,idea,notion&theme=light&perline=6)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,pytorch,fastapi,docker,java,spring,github,vscode,idea,notion&theme=light&perline=7)](https://skillicons.dev) <br>
 
 <!--
 **kosonkh7/kosonkh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
