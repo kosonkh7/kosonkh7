@@ -9,7 +9,7 @@
 - KT AIVLE School AI-Developer Track, 2024.09 - 2025.02.
 
 ## 📚​Main Projects
-- ✅​[SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center](https://github.com/team4-pj-25), 2024.12 - 2025.02. <br>
+- ✅​[SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center](https://github.com/kosonkh7/SOPO-Spring), 2024.12 - 2025.02. <br>
 (Backend: Spring, FastAPI, Docker, AI: Tensorflow, Ultralytics, OpenAI, Deployment: Azure, Team Leader(of 5, KT AivleSchool))<br>
 -> Specifically implemented (my achievements)
   - [AI service for Optimal Stock Level Estimation using LSTM](https://github.com/kosonkh7/Optimal-Stock-Forecasting)
