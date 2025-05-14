@@ -10,26 +10,26 @@
 
 ## 📚​Main Projects
 - ✅​[SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center](https://github.com/kosonkh7/SOPO-Spring), 2024.12 - 2025.02. <br>
-(Backend: Spring, FastAPI, Docker, AI: Tensorflow, Ultralytics, OpenAI, Deployment: Azure, Team Leader(of 5, KT AivleSchool))<br>
+(Backend: **Spring**, **FastAPI**, **Docker**, AI: **Tensorflow**, Ultralytics, OpenAI, Deployment: **Azure**, Team Leader(of 5, KT AivleSchool))<br>
 -> Specifically implemented (my achievements)
   - [AI service for Optimal Stock Level Estimation using LSTM](https://github.com/kosonkh7/Optimal-Stock-Forecasting)
   - [Storage Retrieval System using FastAPI / SQLAlchemy](https://github.com/kosonkh7/Storage-Retrieval-System)
   - CRUD Board Service using Spring Boot
 
 - ✅[LLM-Powered Automated Emergency Room Connection Service](https://github.com/kosonkh7/LLM-Emergency-Connection), 2024.11 - 2024.12. <br>
-(Backend: Spring, FastAPI, Docker, AI: Huggingface, OpenAI, Deployment: Azure, Team Member(of 5, KT AivleSchool))<br>
+(Backend: **Spring**, **FastAPI**, **Docker**, AI: **Huggingface**, **OpenAI**, Deployment: Azure, Team Member(of 5, KT AivleSchool))<br>
 
 - ✅​[Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data](https://github.com/kosonkh7/kosonkh7/blob/main/poster.pdf), 2024.01 - 2024.06 <br>
-(AI: Braindecode, Sklearn, Analysis: MNE, Python, 1st Author(of 1, Bachelor's Thesis)) <br>
+(AI: **Braindecode**, **Sklearn**, Analysis: **MNE**, **Python**, 1st Author(of 1, Bachelor's Thesis)) <br>
 
 - ✅​[Generating Machine Tool Instructional Videos Using AnimateDiff Framework (Text-to-Video)](https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning), 2024.03 - 2024.06  <br>
-(AI: Diffusers, Huggingface, Team Leader(of 5, IE Capstone Design)) <br>
+(AI: **Diffusers**, **Huggingface**, Team Leader(of 5, IE Capstone Design)) <br>
 
 - ✅[Performance Evaluation of U-Net Architecture Based Encephaloma Segmentation Using MRI Data](https://github.com/kosonkh7/Encephaloma-Segmentation), 2022.09 - 2022.12  <br>
-(AI: Pytorch, Team Leader(of 4, Data Analysis Capstone Design)) <br>
+(AI: **Pytorch**, Team Member(of 4, Data Analysis Capstone Design)) <br>
 
 - ✅[​Queueing Theory-Based Computer Simulation Approach to Balancing Public Bike Sharing System Inventory](https://github.com/kosonkh7/PBSS-Analysis), 2022.04 - 2022.06  <br>
-(Simulation: Simio, Analysis: Python, Scipy, @Risk, Team Leader(of 2, Computer Simulation, A+))
+(Simulation: **Simio**, Analysis: **Python**, **Scipy**, **@Risk**, Team Leader(of 2, Computer Simulation, A+))
 
 ## 🎫​​Certifications
 - AICE Associate (KT, 2025.02)
