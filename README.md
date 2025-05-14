@@ -2,13 +2,13 @@
 - I'm **Gwangha Go**👋, researcher with strong intellectual curiosity and prudence. <br>
 - I wanna contribute to solving realistic problem through well-structured Data Science.
 
-## 🎓​​Educations
+## 🎓​​ Educations
 - **B.E.** in Department of **Industrial & Management Systems Engineering**, Kyung Hee University, 2017.03 - 2024.08.
 - **B.E.** in Department of **Software Convergence Engineering**, Kyung Hee University, 2017.03 - 2024.08.
 - GPA: 3.84 / 4.5
 - KT AIVLE School AI-Developer Track, 2024.09 - 2025.02.
 
-## 📚​Main Projects
+## 📚 ​Main Projects
 - 🚟​[SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center](https://github.com/kosonkh7/SOPO-Spring), 2024.12 - 2025.02. <br>
 (Backend: **Spring**, **FastAPI**, Database: **MySQL**, Redis, AI: **Tensorflow**, Ultralytics, OpenAI, Deployment: **Azure**, **Docker**, **Github Actions**, Team Leader(of 5, KT AivleSchool))<br>
 -> Specifically implemented (**My achievements!**)
@@ -31,7 +31,7 @@
 - 🚲[​Queueing Theory-Based Computer Simulation Approach to Balancing Public Bike Sharing System Inventory](https://github.com/kosonkh7/PBSS-Analysis), 2022.04 - 2022.06  <br>
 (Simulation: **Simio**, Analysis: **Python**, **Scipy**, **@Risk**, Team Leader(of 2, Computer Simulation, A+))
 
-## 🎫​​Certifications
+## 🎫 ​​Certifications
 - AICE Associate (KT, 2025.02)
 - 빅데이터분석기사 (과학기술정보통신부, 통계청, 2023.12) [[repo](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/BigDataAnalysis_Certificate)]
 - SQLD (한국데이터산업진흥원, 2021.10)
@@ -39,7 +39,7 @@
 - ITQ OA Master (한국생산성본부, 2019.12)
 - 컴퓨터활용능력(2) (대한상공회의소, 2019.08)
 
-## 🏅​Awards
+## 🏅 ​Awards
 - KT에이블스쿨 우수 성적상(Dean's List) (KT, 2025.02)
 - KT에이블스쿨 빅프로젝트 Practical 상 (KT, 2025.02)
 - 한국컴퓨터종합학술대회(KCC2024) 학부생 부문 장려상 (한국정보과학회, 2024.07)
