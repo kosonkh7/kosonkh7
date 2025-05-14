@@ -11,7 +11,7 @@
 ## 📚​Main Projects
 - 🚟​[SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center](https://github.com/kosonkh7/SOPO-Spring), 2024.12 - 2025.02. <br>
 (Backend: **Spring**, **FastAPI**, Database: **MySQL**, Redis, AI: **Tensorflow**, Ultralytics, OpenAI, Deployment: **Azure**, **Docker**, **Github Actions**, Team Leader(of 5, KT AivleSchool))<br>
--> Specifically implemented (My achievements!)
+-> Specifically implemented (**My achievements!**)
   - 📦[AI service for Optimal Stock Level Estimation using LSTM](https://github.com/kosonkh7/Optimal-Stock-Forecasting)
   - 📦[Storage Retrieval System using FastAPI / SQLAlchemy](https://github.com/kosonkh7/Storage-Retrieval-System)
   - 🗓CRUD Board Service using Spring Boot
