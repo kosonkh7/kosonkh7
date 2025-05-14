@@ -41,14 +41,15 @@
 
 ## 🏅​Awards
 - KT에이블스쿨 우수 성적상(Dean's List) (KT, 2025.02)
+- KT에이블스쿨 빅프로젝트 Practical 상 (KT, 2025.02)
 - 한국컴퓨터종합학술대회(KCC2024) 학부생 부문 장려상 (한국정보과학회, 2024.07)
 - 지식재산능력시험 우수상 (경희대학교 지식창업교육센터, 2018.09)
 - FIELD(Future Industrial Engineering Leaders and Dreamers) 컴페티션 대상 (대한산업공학회, 2017.08)
 
 ## Research Experience
 ***
-### EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가 
-2024.01 - 2024.06 개인 | 졸업논문 | **KCC 2024 수상** [[paper](https://github.com/kosonkh7/kosonkh7/blob/main/paper.pdf)] [[poster](https://github.com/kosonkh7/kosonkh7/blob/main/poster.pdf)]
+### 🧠EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가 
+2024.01 - 2024.06 개인 | 졸업논문 | **KCC 2024 수상🏅** [[paper](https://github.com/kosonkh7/kosonkh7/blob/main/paper.pdf)] [[poster](https://github.com/kosonkh7/kosonkh7/blob/main/poster.pdf)]
 
 #### 문제 정의
 &#45; 현대 의학 기술의 발전에 따라, 치료보다 **질환의 조기 진단 및 예방이 보다 중요**하게 여겨지는 추세. <br>
@@ -72,7 +73,7 @@
 
 ***
 
-### AnimateDiff 프레임워크를 활용한 공작기계 매뉴얼 영상 생성 연구 (Text-to-Video)
+### 🔧AnimateDiff 프레임워크를 활용한 공작기계 매뉴얼 영상 생성 연구 (Text-to-Video)
 2024.03 - 2024.06 팀 5명 | 창의적종합설계 [[more detail](https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning)]
 
 #### 문제 정의
@@ -95,7 +96,7 @@
 
 ***
 
-### U-Net 기반 딥러닝 모델을 활용한 뇌종양 분할 및 성능 평가
+### 🧠U-Net 기반 딥러닝 모델을 활용한 뇌종양 분할 및 성능 평가
 2022.09 - 2022.12 팀 4명 | 데이터분석캡스톤디자인 [[more detail](https://github.com/kosonkh7/Encephaloma-Segmentation)]
 
 #### 문제 정의
@@ -115,7 +116,7 @@
 
 ***
 
-### 대기행렬이론 기반 컴퓨터 시뮬레이션을 활용한 공공자전거 대여 시스템 재고 불균형 해소 연구
+### 🚲대기행렬이론 기반 컴퓨터 시뮬레이션을 활용한 공공자전거 대여 시스템 재고 불균형 해소 연구
 2022.03 - 2022.06 팀 2명 | 컴퓨터시뮬레이션 [[more detail](https://github.com/kosonkh7/PBSS-Analysis)]
 
 #### 문제 정의
