@@ -46,6 +46,10 @@
 - 지식재산능력시험 우수상 (경희대학교 지식창업교육센터, 2018.09)
 - FIELD(Future Industrial Engineering Leaders and Dreamers) 컴페티션 대상 (대한산업공학회, 2017.08)
 
+## Tech Stacks
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kosonkh7})](https://solved.ac/{kosonkh7})
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,pytorch,fastapi,docker,azure,java,spring,github,vscode,idea,notion&theme=light&perline=5)](https://skillicons.dev) <br>
+
 ## Research Experience
 ***
 ### 🧠EEG 데이터를 이용한 알츠하이머병 진단을 위한 딥러닝 기반 분류 모델의 성능 평가 
@@ -151,9 +155,6 @@
 - Google Advanced Data Analytics Professional 자격 수료 (Coursera, Google, 온라인 과정, 2023.03~2023.06)
 - NH투자증권 IB전략부서 기업 분석 체험형 인턴 (2021.02~2021.03)
 
-## Tech Stacks
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kosonkh7)](https://solved.ac/kosonkh7) <br>
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,pytorch,fastapi,docker,java,spring,github,vscode,idea,notion&theme=light&perline=7)](https://skillicons.dev) <br>
 
 <!--
 **kosonkh7/kosonkh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
