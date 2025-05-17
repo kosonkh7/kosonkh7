@@ -47,7 +47,7 @@
 - FIELD(Future Industrial Engineering Leaders and Dreamers) 컴페티션 대상 (대한산업공학회, 2017.08)
 
 ## Tech Stacks
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kosonkh7})](https://solved.ac/{kosonkh7})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kosonkh7)](https://solved.ac/kosonkh7)
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,pytorch,fastapi,docker,azure,java,spring,github,vscode,idea,notion&theme=light&perline=5)](https://skillicons.dev) <br>
 
 ## Research Experience
