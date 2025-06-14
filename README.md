@@ -23,7 +23,7 @@
 - 🧠​[Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data](https://github.com/kosonkh7/kosonkh7/blob/main/poster.pdf), 2024.01 - 2024.06 <br>
 (AI: **Braindecode**, **Sklearn**, Analysis: **MNE**, **Python**, 1st Author(of 1, Bachelor's Thesis), 🏅**Encouragement Award at KCC2024**) <br>
 
-- 🔧​[Generating Machine Tool Instructional Videos Using AnimateDiff Framework (Text-to-Video)](https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning), 2024.03 - 2024.06  <br>
+- 🛠​[Generating Machine Tool Instructional Videos Using AnimateDiff Framework (Text-to-Video)](https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning), 2024.03 - 2024.06  <br>
 (AI: **Diffusers**, **Huggingface**, Team Leader(of 5, IE Capstone Design)) <br>
 
 - 🧠[Performance Evaluation of U-Net Architecture Based Encephaloma Segmentation Using MRI Data](https://github.com/kosonkh7/Encephaloma-Segmentation), 2022.09 - 2022.12  <br>
