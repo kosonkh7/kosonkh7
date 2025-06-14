@@ -14,6 +14,7 @@
 -> Specifically implemented (**My achievements!**)
   - 📦[AI service for Optimal Stock Level Estimation using LSTM](https://github.com/kosonkh7/Optimal-Stock-Forecasting)
   - 📦[Storage Retrieval System using FastAPI / SQLAlchemy](https://github.com/kosonkh7/Storage-Retrieval-System)
+  - 📊[Streamlit/LightGBM-Based Logistics Insight Dashboard](https://github.com/kosonkh7/SOPO-Dashboard)
   - 🗓CRUD Board Service using Spring Boot
 
 - 🚑[LLM-Powered Automated Emergency Room Connection Service](https://github.com/kosonkh7/LLM-Emergency-Connection), 2024.11 - 2024.12. <br>
