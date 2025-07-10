@@ -12,9 +12,9 @@
 - 🚟​[SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center](https://github.com/kosonkh7/SOPO-Spring), 2024.12 - 2025.02. <br>
 (Backend: **Spring**, **FastAPI**, Database: **MySQL**, Redis, AI: **Tensorflow**, Ultralytics, OpenAI, Deployment: **Azure**, **Docker**, **Github Actions**, Team Leader(of 5, KT AivleSchool))<br>
 -> Specifically implemented (**My achievements!**)
-  - 📦[AI service for Optimal Stock Level Estimation using LSTM](https://github.com/kosonkh7/Optimal-Stock-Forecasting)
+  - 📦[Optimal Stock Level Estimation using LSTM](https://github.com/kosonkh7/Optimal-Stock-Forecasting)
   - 📦[Storage Retrieval System using FastAPI / SQLAlchemy](https://github.com/kosonkh7/Storage-Retrieval-System)
-  - 📊[Streamlit/LightGBM-Based Logistics Insight Dashboard](https://github.com/kosonkh7/SOPO-Dashboard)
+  - 📊[SOPO-Dashboard: Anomaly Detection and Data Summary Dashboard using Streamlit / LightGBM](https://github.com/kosonkh7/SOPO-Dashboard)
   - 🗓CRUD Board Service using Spring Boot
 
 - 🚑[LLM-Powered Automated Emergency Room Connection Service](https://github.com/kosonkh7/LLM-Emergency-Connection), 2024.11 - 2024.12. <br>
