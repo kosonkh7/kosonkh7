@@ -10,7 +10,7 @@
 
 ## 📚 ​Main Projects
 - 🚟​[SOPO: AI-Based Optimal Management System for Micro-Fulfillment Center](https://github.com/kosonkh7/SOPO-Spring), 2024.12 - 2025.02. <br>
-(Backend: **Spring**, **FastAPI**, Database: **MySQL**, Redis, AI: **Tensorflow**, **Sklearn**, Ultralytics, OpenAI, Deployment: **Azure**, **Docker**, **Github Actions**, Team Leader(of 5, 🏅**Practical Award at KT AIVLE School**))<br>
+(Backend: **Spring**, **FastAPI**, Database: **MySQL**, Redis, AI: **Tensorflow**, **Scikit-learn**, Ultralytics, OpenAI, Deployment: **Azure**, **Docker**, **Github Actions**, Team Leader(of 5, 🏅**Practical Award at KT AIVLE School**))<br>
 -> Specifically implemented (**My achievements!**)
   - 📦[Optimal Stock Level Estimation with LSTM](https://github.com/kosonkh7/Optimal-Stock-Forecasting)
   - 📦[Storage Retrieval System with FastAPI / SQLAlchemy](https://github.com/kosonkh7/Storage-Retrieval-System)
@@ -21,7 +21,7 @@
 (Backend: **Spring**, **FastAPI**, AI: **Huggingface**, **OpenAI**, Deployment: Azure, **Docker**, Team Member(of 5, KT AivleSchool))<br>
 
 - 🧠​[Performance Evaluation of Deep Learning-Based Classification Models for Alzheimer's Disease Diagnosis Using EEG Data](https://github.com/kosonkh7/kosonkh7/blob/main/poster.pdf), 2024.01 - 2024.06 <br>
-(AI: **Braindecode**, **Sklearn**, Analysis: **MNE**, **Python**, 1st Author(of 1, Bachelor's Thesis), 🏅**Encouragement Award at KCC2024**) <br>
+(AI: **Braindecode**, **Scikit-learn**, Analysis: **MNE**, **Python**, 1st Author(of 1, Bachelor's Thesis), 🏅**Encouragement Award at KCC2024**) <br>
 
 - 🛠​[Generating Machine Tool Instructional Videos Using AnimateDiff Framework (Text-to-Video)](https://github.com/kosonkh7/T2V-Machine-tool-Fine-Tuning), 2024.03 - 2024.06  <br>
 (AI: **Diffusers**, **Huggingface**, Team Leader(of 5, IE Capstone Design)) <br>
